@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+}
+header {
+    background-color: black;
+    color: #fff;
+}
+nav {
+    display: flex;
+    justify-content:space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+nav li {
+    display: inline;
+    list-style: none;
+    margin-right: 20px;
+}
